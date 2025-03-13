@@ -17,6 +17,7 @@ passkey.txt:
 
 uninstaller.bat:
   - Removes the files and the folder made so user does not have to, this can later on be implemented into the program iteself to be easier access
+  - NOTE: It is set up to my computer. [will be fixed in V2 to set up files in root]
 
 When starting up:
   - Set up new password, it will be saved in passkey.txt
