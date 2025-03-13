@@ -1,6 +1,6 @@
 # attendanceV1
 
-Attendance V1, pure terminal version of attendance. 
+Attendance V1, pure terminal version of attendance. (Working on V2 at the moment)
 
 Keeps track of attendance of employees.
 
